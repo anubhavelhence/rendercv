@@ -1,46 +1,97 @@
 cv:
-  name: "Richard Hendriks"
-  location: "San Francisco, US"
-  email: "richard.hendriks@mail.com"
-  phone: "(912) 555-4321"
+  name: "Anubhav Elhence"
+  location: "Pilani, IN"
+  email: "anubhav.elhence@pilani.bits-pilani.ac.in"
+  phone: "+91-7388889308"
   social_networks:
     -
-      username: "neutralthoughts"
+      username: "Anubhav Elhence"
     -
-      username: "dandymusicnl"
+      username: "Anubhav Elhence"
+    -
+      username: "Anubhav Elhence"
+    -
+      username: "Anubhav Elhence"
+    -
+      username: ""
   sections:
     summary:
-      - "Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinal!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!"
+      - "I am Anubhav, a dynamic professional with rich experience in development and having strong leadership and interpersonal skills. My forte includes designing system architectures for IoT, ML, and Blockchain projects, as well as engaging in R&D for cutting-edge robots, drones, and cloud technologies. My skills also include making technical illustration and graphic designing. I am steadfast in my dedication to being a synergistic and constructive team player, and I am zealous in applying my erudition and coding aptitude to yield outstanding outcomes."
     education:
-      - institution: "University of Oklahoma"
-        area: "Information Technology"
-        degree: "Bachelor"
-        start_date: "2011-06-01"
-        end_date: "2014-01-01"
-        highlights:
-          - "DB1101 - Basic SQL"
-          - "CS2011 - Java Introduction"
+      - institution: "BITS Pilani"
+        area: "Electronics and Instrumentation"
+        degree: "B.E."
+        start_date: "2015-08-01"
+        end_date: "2020-05-01"
+        highlights: []
+      - institution: "BITS Pilani"
+        area: "Physics"
+        degree: "M.Sc. (Hons)"
+        start_date: "2015-08-01"
+        end_date: "2020-05-01"
+        highlights: []
+      - institution: "City Montessori School"
+        area: ""
+        degree: "ISC Board"
+        start_date: ""
+        end_date: "2015-01-01"
+        highlights: []
+      - institution: "City Montessori School"
+        area: ""
+        degree: "ICSE Board"
+        start_date: ""
+        end_date: "2013-01-01"
+        highlights: []
     experience:
-      - company: "Pied Piper"
-        position: "CEO/President"
-        location: "Palo Alto, CA"
-        start_date: "2013-12-01"
-        end_date: "2014-12-01"
+      - company: "Advanced Micro Devices, Inc. (AMD)"
+        position: "Design Engineer, Full Chip Verification Team"
+        start_date: "2020-07-01"
+        end_date: "2022-02-01"
         highlights:
-          - "Build an algorithm for artist to detect if their music was violating copy right infringement laws"
-          - "Successfully won Techcrunch Disrupt"
-          - "Optimized an algorithm that holds the current world record for Weisman Scores"
+          - "Full Chip Verification"
+          - "System Verilog and C++"
+      - company: "BITS Pilani"
+        position: "PhD Scholar"
+        start_date: "2022-02-01"
+        end_date: "Ongoing"
+        highlights: []
+      - company: "LaTrobe University, Melbourne"
+        position: "Australia-India Research Fellow"
+        start_date: "2023-05-01"
+        end_date: "Ongoing"
+        highlights: []
     publications:
-      - title: "Video compression for 3d media"
-        date: "2014-10-01"
+      - title: "Enabling Cost-Effective and Secure Minor Medical Teleconsultation using Artificial Intelligence and Blockchain"
+        date: "2022-08-01"
+      - title: "A Blockchain and Machine Learning based Framework for Efficient Health Insurance Management"
+        date: "2021-12-01"
+      - title: "Machine Learning on FPGA for Robust Si3N4-gate ISFET pH Sensor in Industrial IoT Applications"
+        date: "2021-09-01"
+      - title: "A survey on the role of Internet of Things for adopting and promoting Agriculture 4.0"
+        date: "2021-08-01"
+      - title: "Hardware implementation of a Novel Authentication Scheme for UAV-Ground station and UAV-UAV communication"
+        date: "2023-03-01"
+      - title: "Implementation of a Privacy-Preserving Property Management and Exchange Application using Blockchain and NFTs for rental applications"
+        date: "2023-05-01"
     projects:
-      - name: "Miss Direction"
-        date: "2016-08-24"
-        highlights:
-          - "A mapping engine that misguides you"
+      - name: "Design and development of Multi Functional Drone Ecosystem"
+        date: ""
+        highlights: []
+      - name: "Build a domain-specific sovereign blockchain for Mobility Usecase"
+        date: ""
+        highlights: []
+      - name: "Design of Privacy-Enhanced Self-Sovereign Decentralized Data Marketplace"
+        date: ""
+        highlights: []
     additional_experience_and_awards:
-      - label: "Digital Compression Pioneer Award"
-        details: "Techcrunch"
+      - label: "KVPY Scholar, IISc Bangalore"
+        details: "IISc Bangalore and Dept of Science and Technology, India"
+      - label: "Sakura Science Scholarship"
+        details: "Japanese Science and Technology Agency"
+      - label: "Australia India Research Fellow 2023"
+        details: "Australia Dept of Education"
+      - label: "Delegate for Nobel Laureates Convention, Gujrat"
+        details: ""
     technologies:
       - label: "Languages"
         details: ""
